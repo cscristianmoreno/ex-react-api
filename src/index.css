@@ -1,0 +1,11 @@
+@import url("assets/styles/fonts.css");
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --menu-bg-color: #0c0c25;
+    font-family: "Roboto", sans-serif;
+}

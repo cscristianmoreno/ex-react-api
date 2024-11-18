@@ -1,0 +1,1 @@
+export type FunctionModelStruct<T = void, S = T> = (t?: T) => S extends void ? void : S;
