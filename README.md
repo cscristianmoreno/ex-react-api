@@ -22,6 +22,7 @@ Accounts is are store in LocalStorage. This save email and password to will can 
 * Redux Toolkit
 * MUI Joy for design
 * Custom Hooks
+* React Hook Forms
 * useState / useMemo
 * Authentications
 * ESLint
